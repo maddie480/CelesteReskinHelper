@@ -83,8 +83,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PlayerReskinHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReskinHelperModule.cs" />
+    <Compile Include="ReskinHelperSettings.cs" />
+    <Compile Include="ReskinSettingsFile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="everest.yaml">
