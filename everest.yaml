@@ -1,0 +1,6 @@
+﻿- Name: ReskinHelper
+  Version: 1.0.0
+  DLL: bin/Debug/ReskinHelper.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.1942.0
